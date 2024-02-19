@@ -14,3 +14,4 @@ class Home extends BaseController
         echo $this->name;
     }
 }
+ewewewewe
